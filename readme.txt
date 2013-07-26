@@ -1,4 +1,4 @@
-=== Faceboook Like Box Responsive ===
+=== Facebook Like Box Responsive ===
 Contributors: DigitalCourt
 Donate link: 
 Tags: 
